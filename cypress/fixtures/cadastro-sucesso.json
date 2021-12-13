@@ -1,0 +1,9 @@
+{
+    "user": {
+        "email": "jubileu@mail.com",
+        "username": "Jubileu MOCK",
+        "bio": null,
+        "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imp1YmlsZXVAbWFpbC5jb20iLCJ1c2VybmFtZSI6Ikp1YmlsZXUiLCJiaW8iOm51bGwsImltYWdlIjoiaHR0cHM6Ly9hcGkucmVhbHdvcmxkLmlvL2ltYWdlcy9zbWlsZXktY3lydXMuanBlZyIsImlhdCI6MTYzOTEwMTYzNSwiZXhwIjoxNjQ0Mjg1NjM1fQ.AgPyV3nR-1UKmm7syFNdDA9iMYa9ZSMoXkfDmJYeQe4"
+    }
+}
